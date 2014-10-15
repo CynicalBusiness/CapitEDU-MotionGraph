@@ -1,0 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+html, body{font-family: Segoe UI; height: 100%;}
+div#wrapper{min-height: 100%; width: 100%; position:relative;}
